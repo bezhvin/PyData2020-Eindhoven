@@ -1,6 +1,6 @@
 # PyData2020-Eindhoven
 This repository includes the codes for the my talk at [PyData Eindhoven 2020](https://eindhoven.pydata.org/): **The industrial challenge of missing data**. 
-The slides are available and the talk is available on [YouTube](https://www.youtube.com/watch?v=M4CtBKrp59w&t=839s).
+The talk is available on [YouTube](https://www.youtube.com/watch?v=M4CtBKrp59w&t=839s), and the slides are [here](https://github.com/bezhvin/PyData2020-Eindhoven/blob/main/PyData_missingdata.pdf).
 
 ## Description 
 Two practical notebooks ready to run in colab are available to practice missing data imputation. 
